@@ -1,0 +1,4 @@
+﻿  TCPClient.cpp
+C:\Users\nguye\source\repos\TCPClient\TCPClient\TCPClient.cpp(33,16): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+C:\Users\nguye\source\repos\TCPClient\TCPClient\TCPClient.cpp(43,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCPClient.vcxproj -> C:\Users\nguye\source\repos\TCPClient\x64\Debug\TCPClient.exe
